@@ -1,1 +1,0 @@
-# Fit-Squares-in-Triangle
